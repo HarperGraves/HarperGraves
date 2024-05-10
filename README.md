@@ -25,9 +25,9 @@ Steam account: https://steamcommunity.com/id/agentfielding/
 - <b>Geometry</b>
 - <b>U.S History: Conflict</b>
 - <b>American Sign Language</b>
-- <b><World Literature/b>
+- <b>World Literature</b>
 - <b>Chemistry</b> (I'm just taking this class for a elective credit.)
-- <b>Almost Live/b> (A advanced tech class, mainly focuses on Rewind, Fast Forward, a weekly recap of what happened at school and what happens next week.)
+- <b>Almost Live</b> (A advanced tech class, mainly focuses on Rewind, Fast Forward, a weekly recap of what happened at school and what happens next week.)
 
 - <h2>⚡ Fun fact: I want to go to community college for 2 years and university for the next 2 years. </h2>
 
