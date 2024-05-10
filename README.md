@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harper! <br/>Highschool Student</a>,>Video Gamer</a>
+<h1>Hi, I'm Harper! <br/>Highschool Student</a>,Video Gamer</a>
 
 <h2> 💬 About me: </h2>
 
