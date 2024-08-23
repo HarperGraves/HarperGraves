@@ -2,7 +2,7 @@
 
 <h2> 💬 About me: </h2>
 
-I am a high school student (currently a junior) making this github account on my occurence for doing my job shadow. I have autism and I am a gifted student. I play video games (Call of Duty, Battlefield, Fortnite, GTA 5, and others.) I workout 2-3 times a week with my father and brother. I am trying to graduate and go to college for Computer Engineering. 
+I am a high school student (going into senior year in a few days) making this github account on my occurence for doing my job shadow. I have autism and I am a gifted student. I play video games (Call of Duty, Battlefield, Fortnite, GTA 5, and others.) I workout 2-3 times a week with my father and brother. I am trying to graduate and go to college for Computer Engineering. 
 
 <h2> 🤳 Connect with me: </h2>
 
@@ -18,16 +18,16 @@ Steam account: https://steamcommunity.com/id/agentfielding/
   
 <h2>🔭 I’m Currently Working on: </h2>
   
-- <b>Review for Crucible Test</b>
-  - I am doing a 34 question assignment review on the Crucible Test next week (only using the book, no computer) 
+- <b>Not working on anything right now.</b>
+  
   
 <h2>🔭 🌱 I’m Currently Learning </h2>
 
-- <b>Geometry</b>
-- <b>U.S History: Conflict</b>
-- <b>American Sign Language</b>
-- <b>World Literature</b>
-- <b>Chemistry</b> (I'm just taking this class for a elective credit.)
+- <b>Algebra 2</b>
+- <b>CWP Civics</b>
+- <b>American Sign Language 2</b>
+- <b>Online Hold (World Literature English Online)</b>
+- <b>3D Modeling & Game Lvl Design</b> (I'm taking this for elective credit but hoping to learn more about computers)
 - <b>Almost Live</b> (A advanced tech class, mainly focuses on Rewind, Fast Forward, a weekly recap of what happened at school and what happens next week.)
 
 - <h2>⚡ Fun fact: I want to go to community college for 2 years and university for the next 2 years. </h2>
