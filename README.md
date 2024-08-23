@@ -12,9 +12,10 @@ Steam account: https://steamcommunity.com/id/agentfielding/
 
 <h2>👨‍💻 Projects: </h2>
 
-- <b>Job Shadow</b>
+- <b>Extended Job Shadow</b>
   - [Cybersecurity Project](https://github.com/HarperGraves/Cybersecurity-Project/tree/main)
-
+  - [Company Device Setup](https://github.com/HarperGraves/Company-Device-Setup)
+  
 <h2>🔭 I’m Currently Working on: </h2>
   
 - <b>Review for Crucible Test</b>
